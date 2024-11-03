@@ -1,0 +1,4 @@
+$env:ARM_CLIENT_ID = "ef3e16e1-6387-4710-ab15-cf60848e70cf"
+$env:ARM_CLIENT_SECRET = "wHm8Q~IdneqEzwG6MfKN45_WES6sf5etI0tDnaD4"
+$env:ARM_TENANT_ID = "d614d2c6-b0b3-4a53-bb50-847e747c88d7"
+$env:ARM_SUBSCRIPTION_ID = "9dfcfea7-c731-4d13-91e2-b9aefaff8bf1"
